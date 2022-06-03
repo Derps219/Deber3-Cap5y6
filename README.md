@@ -232,6 +232,187 @@ Si existe más de una trayectoria (rama) para la corriente entre dos puntos dist
 
 Explicacion y resolucion de ejercicios o problemas
 
+2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de
+circuito impreso.
+
+![image](https://user-images.githubusercontent.com/84789986/171812688-ecef4d5b-7064-447a-aa04-2dbd1c7c9a5d.png)
+
+Si se encuentran correctamente conectados, ya que en un circuito paralelo tienen mas de una trayectoria para la corriente que circula entre dos puntos dados. 
+
+4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 Æ? Hay cuatro resistores, todos de igual valor.
+
+La corriente entre los extremos es 12V ya que es un circuito en paralelo. 
+
+Si hay cuatro resistores y todos son de igual valor: R= 550/4 = 137.5 Ω
+
+Datos  I= V/R 
+
+I= 12/137.5= 0.087 A 
+
+6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?
+
+![image](https://user-images.githubusercontent.com/84789986/171812812-82754fc3-9b56-429a-92a8-a4b62703c388.png)
+
+Posición A la resistencia total seria la suma de las cuatro resistencias, la resistencia total seria 0.42kΩ.
+
+Posición B la resistencia total seria la suma de las resistencias R1, R2 y R3 la resistencia total seria 0.49kΩ.
+
+Posición C la resistencia total seria la suma de las resistencias R3 y R2 la resistencia total seria igual a 0.64kΩ.
+
+8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
+
+a.- R1= 15/1 = 15mA  
+
+b.-R2= 15/1.8= 8.33mA
+
+c.- R3=15/2.2= 6.81  
+
+d.- R4= 15/2.7= 5.5mA
+
+Para a. la corriente total es la suma de las 4 corrientes, It= 35.64mA
+
+Para b. la corriente total es la suma de las corrientes I1, I2 e I3 entonces It= 30,14mA
+
+Para a. la corriente total es la suma de las corrientes I1 e I2 entonces It= 23,33mA
+
+10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+I5= 500-50-150-25-100 = 175mA
+
+14. Los siguientes resistores están conectados en paralelo: 1.0 MÆ, 2.2 MÆ, 5.6 MÆ, 12 MÆ, y 22 MÆ. Determine la resistencia total.
+
+R= 0.57 MΩ
+
+16. Calcule RT en cada uno de los circuitos de la figura 6-70.
+
+![image](https://user-images.githubusercontent.com/84789986/171813014-46c41a2a-4215-41f4-898e-626deb3338ee.png)
+
+Rt= 1/(1/R1)+(1/R2)+…+(1/R)
+
+a.- Rt= 157.94 Ω
+
+b.- Rt= 18.21 kΩ
+
+c.- Rt= 0.89 kΩ
+
+18. Tres grupos, uno de cinco resistores de 470 Æ, otro de diez resistores de 100 Æ, y uno más de dos resistores de 100 Æ están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
+
+Grupo uno: Rt=R/n, donde n es el numero de resistores. Entonces Rt= 470/5 = 94Ω
+
+Grupo dos: Rt=R/n, donde n es el numero de resistores. Entonces Rt= 100/10 = 10Ω
+
+Grupo tres: Rt=R/n, donde n es el numero de resistores. Entonces Rt= 100/2= 50Ω
+
+20. Si la resistencia total en la figura 6-71 es de 389.2 Æ, ¿cuál es el valor de R2?
+
+![image](https://user-images.githubusercontent.com/84789986/171813119-0f4b9898-facb-47ab-ac96-a903be84d148.png)
+
+1/389.2 = 1/680+1/R2
+
+1/R2= 1/389.2 – 1/680
+
+Despejando R2 y calculando; R2= 910.09Ω
+
+22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+![image](https://user-images.githubusercontent.com/84789986/171813194-87961ea0-5bbe-4b75-85c2-45431108138e.png)
+
+Rt= 10.24Ω, aplicamos ley de Ohm; I= 10V/10.24Ω= 0.9765mA
+
+Rt=333.5Ω, aplicamos ley de Ohm; I=25V/333.5Ω= 0,07mA
+
+24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en pa-
+ralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?
+
+R= V/I 
+
+R= 5V/1.1mA = 4,50 kΩ
+
+4,50 kΩ/4 = 1250 Ω
+
+26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura
+
+![image](https://user-images.githubusercontent.com/84789986/171813708-fec005df-ef10-4ca0-8e67-cdfb48f21ae6.png)
+
+Is = I1 + I2
+
+I2 = 150 mA – 100 mA = 50 mA
+
+R2 = Vs / I2 = 10/50 = 0.2kΩ
+
+R1 = Vs / I1 = 10 / 100 = 0.1Ω
+
+28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura
+
+![image](https://user-images.githubusercontent.com/84789986/171813779-4f8aaa5d-d026-4b20-a64f-131f8b4126c5.png)
+
+a)	Is = I1 + I2 = 3mA
+
+R1 = Vs / 3mA 
+
+b)	Is = I1 + I2
+
+12 = Vs / 10uA - 40uA = 10uA
+
+12 = VS / 10uA
+
+c)	Is = 1A – 2.5A+ 2A = 0.5
+
+Is = Vs / 0.5A
+
+30. la corriente a través de RL en cada uno de los circuitos de la figura
+
+![image](https://user-images.githubusercontent.com/84789986/171813876-ae00f44f-6fa1-48a3-a5d4-2efe7f6627dd.png)
+
+Rt = ( 1 * 2.7 )kΩ / ( 1 + 2.7kΩ ) = 0.73kΩ
+
+I1 = Vs / 1kΩ = ( 81 / 37 )A
+
+I2 = (30 / 37 )V
+
+Is; 3ª 0 Vs + Vs / 2.7kΩ
+
+Vs = ( 81 / 37 )V
+
+32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+![image](https://user-images.githubusercontent.com/84789986/171813975-a959405b-3eee-4382-8882-2b3be6c119aa.png)
+
+Se utiliza la fórmula de la resistencia total en circuitos paralelos; una vez situados los valores y con los valores expresados obtenemos:
+
+25 / 12R = 1 / Rt = 12 / 25Ω;  Vs = 12 R/5
+
+34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.
+
+![image](https://user-images.githubusercontent.com/84789986/171814236-ea8f6570-a02e-4e8d-a280-7f9abb10028a.png)
+
+I1 = V / R1; V= I1 * R1 = 1 mA * 50Ω = 0.5
+
+R2 = V / I2 = 0.05 V / 0.09 mA = 5.55mA 
+
+38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+Pt = V * It = P / V = 450 / ( 110 ) = 4.09ª
+
+Pt = It^2  * Rt
+
+Rt = Pt / It^2 = 26.9Ω
+
+It = 681+681+681+681+681+681 = 4086A
+
+40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?
+
+P = V^2 / R = (110)^2 /75 = 161.33Ω
+
+I= 110/161.33 = 0.68mA 
+
+It = 6 ( 0.68mA)4.09mA
+
+42. Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2W. La resistencia total es de 1.0 kΩ,y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
+
+(a) El número de resistores (b) El valor de cada resistor
+
+(c) La corriente en cada rama (d) El voltaje aplicado
 
 Conclusiones
 
@@ -245,11 +426,10 @@ Conclusiones
 
 •	La resistencia total va a ser menor a todas las resistencias que se encuentran presentes en el circuito.
 
+Bibliografia
 
+Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación. 
 
+Rocha, J. (2013). Circuitos resistivos serie y paralelo.
 
-
-
-
-
-
+Irwin, J. D., & Alvarado, E. V. (1997). Análisis básico de circuitos en Ingeniería. Prentice-Hall Hispanoamericana.
