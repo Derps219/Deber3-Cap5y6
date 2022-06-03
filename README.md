@@ -208,15 +208,15 @@ Tema: CIRCUITOS EN PARALELO
 
 Objetivo General
 
-.	
+.	Identificar y verificar los circuitos paralelos, tanto como su diferencia con el circuito en serie, como sus caracteristicas y funcionabilidad.  
 
 Objetivos Específicos
 
-•	Identificar un circuito en serie.
+•	Identificar un circuito en paralelo.
 
-•	Determinar la resistencia total en serie.
+•	Determinar la resistencia total en paralelo.
 
-•	Aplicar la ley de Ohm Y la ley de voltaje de Krichhoff
+•	Aplicar la ley de Ohm Y la ley de voltaje de Krichhoff.
 
 Marco Teórico
 
