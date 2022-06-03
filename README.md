@@ -1,5 +1,9 @@
 # Deber3-Cap5y6
 
+								CAPITULO 5
+					
+Tema: CIRCUITOS EN SERIE
+
 Objetivo General
 
 Analizar las características, funciones e importancia que ofrecen los circuitos en serie, siendo esto el tema a tratar durante clases.
@@ -188,9 +192,64 @@ a)A-Tierra→V=(15v/18.9kΩ)(18.9kΩ)→15v máxima
 
 Conclusiones
 
-El compe
+El circuito en serie como tal es una conexión básica, de modo que su conexión es de receptores de forma dependientes, siendo su resistencia total la suma de sus resistencias paralelas, estas emplean leyes de Ohm al igual que las leyes de Kirchhoff, finiquitando el uso adecuado de las formulas para facilitarnos a la hora de resolver o analizar circuitos. 
 
 Bibliografía
 
 Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación. 
+
+Mantilla Quijano, G. (1985). Circuito en serie.
+
+Mantilla Quijano, G., & González, H. (1977). Circuito serie-Circuito paralelo.
+
+								CAPITULO 6
+						
+Tema: CIRCUITOS EN PARALELO
+
+Objetivo General
+
+.	
+
+Objetivos Específicos
+
+•	Identificar un circuito en serie.
+
+•	Determinar la resistencia total en serie.
+
+•	Aplicar la ley de Ohm Y la ley de voltaje de Krichhoff
+
+Marco Teórico
+
+Si existe más de una trayectoria (rama) para la corriente entre dos puntos distintos, y si el voltaje entre dichos puntos también aparece a través de cada una de las ramas, entonces existe un circuito en paralelo entre esos dos puntos
+
+![image](https://user-images.githubusercontent.com/84789986/171804677-d9499c38-3b89-4d8c-86fc-4c9c4c0b5b26.png)
+
+![image](https://user-images.githubusercontent.com/84789986/171804707-fab21a1b-3506-41c6-80a1-0c1bf26ce481.png)
+
+![image](https://user-images.githubusercontent.com/84789986/171804726-7ddf0e19-3d6b-4600-8e85-18b34a0f2c86.png)
+
+![image](https://user-images.githubusercontent.com/84789986/171804772-170fb964-3069-40ba-88b3-e72b235350d2.png)
+
+Explicacion y resolucion de ejercicios o problemas
+
+
+Conclusiones
+
+•	En el circuito en paralelo la corriente total es igual a la sumatoria de todas las corrientes individuales.
+
+•	Para realizar las operaciones matemáticas se debe tener en cuenta las formulas de la ley de Ohm.
+
+•	Se aprendió a distinguir un circuito en paralelo con uno en serie.
+
+•	El voltaje total entregado por la fuente es el mismo para todo el circuito. Por lo tanto ya el voltaje no se divide como en un circuito en serie, si no que en el circuito en paralelo la corriente es la que se divide.
+
+•	La resistencia total va a ser menor a todas las resistencias que se encuentran presentes en el circuito.
+
+
+
+
+
+
+
+
 
